@@ -1,0 +1,11 @@
+.wrapper {
+    display: grid;
+    padding: 10px 20px;
+
+    grid-template-rows: 100px 450px;
+    grid-template-columns: 3fr 9fr;
+    grid-template-areas: 'h h'
+                'n c';
+    
+}
+

@@ -1,0 +1,12 @@
+.navbar {
+    grid-area: n;
+    background-color: #6DA5CA;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.navlink {
+    
+    
+}

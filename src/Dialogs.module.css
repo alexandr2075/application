@@ -1,0 +1,8 @@
+.dialogs {
+    grid-area: c;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    text-decoration: none;
+}
+
